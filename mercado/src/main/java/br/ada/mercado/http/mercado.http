@@ -1,0 +1,5 @@
+### salvar
+POST http://localhost:8060/mercados
+Content-Type: application/json
+
+< ./mock-mercado.json
